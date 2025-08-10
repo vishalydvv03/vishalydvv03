@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile" alt="Profile Banner" />
+  <img src="https://www.canva.com/design/DAGvrrZrn6M/IS5ebv4qv-NCcYqz1U2oVQ/edit?utm_content=DAGvrrZrn6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Profile Banner" />
 </p>
 
 # 👋 Hi, I'm Vishal Yadav
@@ -13,10 +13,9 @@ Currently exploring **ASP.NET Core**, **Entity Framework Core**, and **modern Ja
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub Followers](https://img.shields.io/github/followers/vishalydvv03?label=Follow&style=social)](https://github.com/vishalydvv03)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=flat&logo=internet-explorer&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-yadavv)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:vishaljyadav576@gmail.com)
+
 
 ---
 
@@ -24,7 +23,7 @@ Currently exploring **ASP.NET Core**, **Entity Framework Core**, and **modern Ja
 
 **Languages & Frameworks:**
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,bootstrap,html,css,jquery,angular" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,bootstrap,html,css,java" />
 </p>
 
 **Databases & Tools:**
@@ -53,12 +52,6 @@ Currently exploring **ASP.NET Core**, **Entity Framework Core**, and **modern Ja
 </p>
 
 ---
-
-## ⏳ Coding Activity (WakaTime)
-<!-- You can set this up at https://wakatime.com -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername&layout=compact&theme=radical" />
-</p>
 
 ---
 
