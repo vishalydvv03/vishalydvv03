@@ -69,7 +69,7 @@ Currently exploring **ASP.NET Core**, **Entity Framework Core**, and **modern Ja
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-{{DATE}}-brightgreen" />
+  <img src="https://img.shields.io/badge/Last%20Updated-{{10/08/2025}}-brightgreen" />
 </p>
 ## Hi there 👋
 
