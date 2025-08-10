@@ -28,7 +28,7 @@ Currently exploring **ASP.NET Core**, **Entity Framework Core**, and **modern Ja
 
 **Databases & Tools:**
 <p>
-  <img src="https://skillicons.dev/icons?i=mssql,git,github,postman,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=mssql,git,github,postman,visualstudio,vscode,mssql" />
 </p>
 
 ---
