@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAGvrrZrn6M/IS5ebv4qv-NCcYqz1U2oVQ/edit?utm_content=DAGvrrZrn6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Profile Banner" />
+  <img src="https://github.com/vishalydvv03/vishalydvv03/blob/main/ProfileBanner.png" alt="Profile Banner" />
 </p>
 
 # 👋 Hi, I'm Vishal Yadav
