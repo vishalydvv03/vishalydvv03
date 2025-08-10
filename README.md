@@ -40,7 +40,15 @@ Currently exploring **ASP.NET Core**, **Entity Framework Core**, and **modern Ja
 > **Tech Stack:** ASP.NET Core MVC, EF Core, SQL Server, Bootstrap, JWT Auth.  
 - Teacher: Assign, edit, and delete tasks  
 - Student: View assigned tasks  
-- Responsive UI with Bootstrap  
+- Responsive UI with Bootstrap
+- 
+### [🏥 HAMS (Hospital OPD And Appointment Management System)](https://github.com/vishalydvv03/HAMS)  
+Comprehensive solution for managing **outpatient department (OPD)** workflows and patient appointments in hospitals.  
+**Tech Stack:** ASP.NET Core, C#, layered architecture (API, Domain, Services, Data), SQL Backend.
+
+- Manage patient registrations, appointments, and OPD schedules  
+- Integrated services layer for business logic  
+- Clean separation of concerns across three-tier architecture  
 
 ---
 
