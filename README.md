@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Vishal Yadav
 
-🚀 **.NET & Web Developer** | 💡 Problem Solver | 📚 Lifelong Learner  
+🚀 **.NET Core Developer** | 💡 Problem Solver | 📚 Lifelong Learner  
 
 I love building scalable, clean, and maintainable software — from backend APIs to full-stack web apps.  
 Currently exploring **ASP.NET Core**, **Entity Framework Core**, and **modern JavaScript frameworks**.
