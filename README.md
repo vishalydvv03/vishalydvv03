@@ -35,11 +35,15 @@ Currently exploring **ASP.NET Core**, **Entity Framework Core**, and **modern Ja
 
 ## 🚀 Featured Projects
 
-### [📌 AssignMate](https://github.com/vishalydvv03/AssignMate)
- 
+### [🧠 QueryDocs - Intelligent Knowledge Assistant](https://github.com/vishalydvv03/QueryDocs) 
+
 ### [🏥 HAMS (Hospital OPD And Appointment Management System)](https://github.com/vishalydvv03/HAMS)  
 
-### [🧠 QueryDocs](https://github.com/vishalydvv03/QueryDocs)  
+### [📌 AssignMate](https://github.com/vishalydvv03/AssignMate)
+ 
+
+
+ 
 
 
 ---
