@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Vishal Yadav
 
-🚀 **.NET Core Developer** | 💡 Problem Solver | 📚 Lifelong Learner  
+🚀 **.NET Developer** | 💡 Problem Solver | 📚 Lifelong Learner  
 
 I love building scalable, clean, and maintainable software — from backend APIs to full-stack web apps.  
 Currently exploring **ASP.NET Core**, **Entity Framework Core**, and **modern JavaScript frameworks**.
@@ -36,38 +36,11 @@ Currently exploring **ASP.NET Core**, **Entity Framework Core**, and **modern Ja
 ## 🚀 Featured Projects
 
 ### [📌 AssignMate](https://github.com/vishalydvv03/AssignMate)
-> Role-based task assignment system for educational environments.  
-> **Tech Stack:** ASP.NET Core MVC, EF Core, SQL Server, Bootstrap, JWT Auth.  
-- Teacher: Assign, edit, and delete tasks  
-- Student: View assigned tasks  
-- Responsive UI with Bootstrap
-- 
+ 
 ### [🏥 HAMS (Hospital OPD And Appointment Management System)](https://github.com/vishalydvv03/HAMS)  
-Comprehensive solution for managing **outpatient department (OPD)** workflows and patient appointments in hospitals.  
-**Tech Stack:** ASP.NET Core, C#, layered architecture (API, Domain, Services, Data), SQL Backend.
 
-- Manage patient registrations, appointments, and OPD schedules  
-- Integrated services layer for business logic  
-- Clean separation of concerns across three-tier architecture  
+### [🧠 QueryDocs](https://github.com/vishalydvv03/QueryDocs)  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalydvv03&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalydvv03&layout=compact&theme=radical" height="150" />
-</p>
-
----
-
----
-
-## 📈 Recent Activity
-<!-- This section can be automated with GitHub Actions -->
-- 🔥 Contributed to **AssignMate** - Added JWT authentication
-- 🐛 Fixed UI issues in Bootstrap layout
-- ✨ Improved database migration scripts
 
 ---
 
