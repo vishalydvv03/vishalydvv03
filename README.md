@@ -8,12 +8,8 @@
 🚀 **.NET Developer** | 💡 Problem Solver | 📚 Lifelong Learner  
 
 I love building scalable, clean, and maintainable software — from backend APIs to full-stack web apps.  
-Currently exploring **ASP.NET Core**, **Entity Framework Core**, and **modern JavaScript frameworks**.
+Currently exploring **ASP.NET Core**, **Entity Framework Core**, and **modern JavaScript 
 
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-yadavv)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:vishaljyadav576@gmail.com)
 
 
